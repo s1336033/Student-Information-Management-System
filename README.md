@@ -11,5 +11,4 @@ Download Guildline：
 4.Download and extract StudnetManagement.zip file into desktop. Open StudentManagement.pyw in the programming platform to run it
 
 
-
-User guide video： 
+User guide video： https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1336033_live_hkmu_edu_hk/EflnczvhAclAondfyOtIwZQB9yq3hzOtUVYTEJbZE0p4Mw
