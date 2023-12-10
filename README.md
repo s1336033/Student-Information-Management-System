@@ -42,20 +42,3 @@ ID 1333515 Username (jarry) password (jarry123)
 ID 1353125 Username (Emma) password (Emma)
 
 
-
-
-/
-Admin page 
-
-Admin can type student id, name, age and choose the gender to add student data.
- 
-Admin can click the delete button delete the student data.
-
-
-/
-Teacher page
-
-Teacher can click the student name and then click the show score.
-
-Teacher can add or delete or modify student course and score.
-
